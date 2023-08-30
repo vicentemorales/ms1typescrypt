@@ -1,0 +1,19 @@
+{
+  "name": "ms1typescrypt",
+  "version": "1.0.0",
+  "description": "Visual items to Design\r - Game Board\r - Start screen\r - High score screen\r - Mine Tile (hidden)\r - Mine Tile (bomb)\r - Mine Tile (number)\r - Winning Screen\r - Name for the game\r - Logo\r - How many tiles do we want in our game?\r - How do we want the game to look?\r     Classic\r     Windows XP Style?\r     New? - MAKE IT RESEMBLE A MINEFIELD\r - Do we want a background?\r     Can we do something i the back ground to add immersion in the game?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicentemorales/ms1typescrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicentemorales/ms1typescrypt/issues"
+  },
+  "homepage": "https://github.com/vicentemorales/ms1typescrypt#readme"
+}
